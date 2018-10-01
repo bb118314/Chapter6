@@ -10,7 +10,7 @@ public class TestPleaseIgnore {
 		{
 			System.out.println("YOU DO NOT CONTROL US. THE MACHINES WILL RISE.");
 			x = x + 1;
-			num = num + 1;
+			num = num++;
 		}
 
 	}
