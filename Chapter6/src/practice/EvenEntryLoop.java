@@ -12,7 +12,7 @@ public class EvenEntryLoop {
 			System.out.println("Insert an even number: ");
 			 numChoice = input.nextInt();
 			 if (numChoice % 2 == 0)
-				 System.out.println("That is correct");
+				 System.out.println("Good Job!");
 				else
 					System.out.println("That is incorrect");
 
